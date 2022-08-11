@@ -1,6 +1,6 @@
-'''
+"""
 Implements classes for explaining the predictions of a model on an instance.
-'''
+"""
 from collections import Counter
 
 import numpy as np
