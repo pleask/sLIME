@@ -2,7 +2,7 @@
 
 sLIME (semantic LIME) provides a generic interface to the [Local Interpretable Model-Agnostic Explanations](https://github.com/marcotcr/lime) package, allowing for construction of arbitrary transformers that remove features / concepts from data instances. For example, with images, the original package only implements superpixels as features; with sLIME it is possible to consider human-level concepts, such as eyes or ears, in the local models.
 
-Whilst this implementation is available, research into how to construct these concepts and transformers is ongoing as part of [Patrick Leask's](mailto:patrickaaleask@gmail.com) master's dissertation research at the University of Liverpool. This research will be published at the end of September.
+The dissertation associated with this project is [here](https://drive.google.com/file/d/1bzDltWzkp9EWEewCuEkOVhQpUysL8TGz/view?usp=sharing) - I probably won't be writing this into a shorter paper.
 
 ## Tutorials
 The following tutorials are / will be available in the repository.
